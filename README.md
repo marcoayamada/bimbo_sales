@@ -1,8 +1,6 @@
 # Prevendo Demanda de Estoque com Base em Vendas
 
-___
 *Projeto 2 da Formação Cientista de Dados da Data Science Academy*
-___
 
 O Grupo Bimbo (https://www.grupobimbo.com), se esforça para atender a
 demanda diária dos consumidores por produtos frescos de panificação nas
