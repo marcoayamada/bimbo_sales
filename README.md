@@ -12,6 +12,11 @@ históricos de vendas. Isso fará com que os consumidores dos mais de 100 produt
 ### Divisão do projeto
 
 Esse projeto está dividido em 3 notebooks:
-- [EDA](https://github.com/marcoayamada/bimbo_sales/blob/master/EDA.ipynb)
-- [Modelo usando XGBoost ~ msle=1.767](https://github.com/marcoayamada/bimbo_sales/blob/master/%5B4%5D%20Bimbo%20(xgboost).ipynb)
-- [Modelo usando apenas a média das semanas anteriores ~ msle=1.622](https://github.com/marcoayamada/bimbo_sales/blob/master/%5B5%5D%20Bimbo%20(medians).ipynb)
+#### EDA
+https://nbviewer.jupyter.org/github/marcoayamada/bimbo_sales/blob/master/EDA.ipynb - [[Github](https://github.com/marcoayamada/bimbo_sales/blob/master/EDA.ipynb)]
+
+#### XGBoost ~ msle=1.767
+https://nbviewer.jupyter.org/github/marcoayamada/bimbo_sales/blob/master/%5B4%5D%20Bimbo%20(xgboost).ipynb - [[Github](https://github.com/marcoayamada/bimbo_sales/blob/master/%5B4%5D%20Bimbo%20(xgboost).ipynb)]
+
+#### Apenas a média das semanas anteriores ~ msle=1.622
+https://nbviewer.jupyter.org/github/marcoayamada/bimbo_sales/blob/master/%5B5%5D%20Bimbo%20(medians).ipynb - [[Github](https://github.com/marcoayamada/bimbo_sales/blob/master/%5B5%5D%20Bimbo%20(medians).ipynb)]
