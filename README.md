@@ -1,6 +1,5 @@
 # Prevendo Demanda de Estoque com Base em Vendas
 
->Fui apresentado a esse desafio pela *Data Science Academy* como parte de seu programa curricular.
 
 O Grupo Bimbo (https://www.grupobimbo.com), se esforça para atender a demanda diária dos consumidores por produtos frescos de panificação nas prateleiras de mais de 1 milhão de lojas ao longo das suas 45.000 lojas em todo o México.
 
